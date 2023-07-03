@@ -1,0 +1,18 @@
+2023-06-02 16:08:30,702 - INFO - Rectifying stock data with id:2, name: Salt,                  category: Salt, quantity: 2. The justification is Missing blabla
+2023-06-02 16:12:12,127 - INFO - Rectifying stock data with id:6, name: Powder Salt,                  category: Salt, quantity: 21. The justification is Mispelling the product name: Powder Salt to Grand Salt
+2023-06-02 16:19:38,251 - INFO - Clearing stock because: All of them are damaged from the supplier
+2023-06-02 20:10:38,014 - INFO - Clearing stock because: Inexistant items
+2023-06-02 20:23:45,385 - INFO - 5 of product with id 3 is or are damaged. Justification: Spoiled in the ground by accident
+2023-06-02 20:25:21,359 - INFO - 5 of product with id 3 is or are damaged. Justification: Spoiled in the ground by accident
+2023-06-03 10:16:02,439 - INFO - Clearing stock because: Does not exist
+2023-06-03 10:35:14,549 - INFO - Clearing stock because: Nonsense
+2023-06-03 10:41:04,085 - INFO - Clearing stock with id: 11 because: Wrong place
+2023-06-03 10:45:27,572 - INFO - Rectifying stock data with id:5, name: Sponge, category: Square Sponge, quantity: 5. The justification is Mistyping
+2023-06-03 10:52:47,567 - INFO - 2 of product with id 11 is or are damaged. Justification: Ate by mice
+2023-06-03 10:53:02,554 - INFO - 2 of product with id 11 is or are damaged. Justification: Ate by mice
+2023-06-03 10:53:33,180 - INFO - 2 of product with id 11 is or are damaged. Justification: Ate by mice
+2023-06-03 10:54:29,323 - INFO - 2 of product with id 5 is or are damaged. Justification: Ate by mice
+2023-06-03 10:58:28,468 - INFO - 2 of product with id 6 is or are damaged. Justification: Ate by mice
+2023-06-03 11:00:11,182 - INFO - 2 of product with id 6 is or are damaged. Justification: Ate by mice
+2023-06-03 11:01:46,202 - INFO - 5 of product with id 6 is or are damaged. Justification: Ate by mice
+2023-06-03 11:17:35,706 - INFO - Clearing stock with id: 12 because: Wrong place
